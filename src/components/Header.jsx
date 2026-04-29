@@ -65,7 +65,7 @@ const Header = () => {
           New account
         </a>
 
-        <Button className="hidden lg:flex" href="#login">
+        <Button className="max-lg:hidden  lg:flex" href="#login">
           Sign in
         </Button>
 
