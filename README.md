@@ -1,16 +1,37 @@
-# React + Vite
+# 🎨 Frontend Portfolio React Landing Page - Brainwave 🧠
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📝 Implementation in React and Tailwind, using Vite of a Landing Page for a fictional company named Brainwave
 
-Currently, two official plugins are available:
+This is an implementation of the Brainwave Landing Page design made by [Adrian Hajdin](https://github.com/adrianhajdin/brainwave). This implementation was made by me for portfolio reasons. I don't own nor clame any rights over the design idea.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ⚙ Stack
 
-## React Compiler
+[![Tech Stack](https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark)](https://skillicons.dev)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+![hero showcase image](hero-showcase.png)
+![features showcase image](features-showcase.png)
 
-## Expanding the ESLint configuration
+## 🧪 Test it out
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Use the following link to github pages: [Brainwave LP](/)
+
+## 👨‍💻 Run the project at your own environment
+
+To run the project at your own environment
+
+1. Install [Node and npm](https://nodejs.org/en/download)
+2. Clone or download the files from this repository
+3. Run `npm install` on the terminal
+4. Then run `npm run dev`
+5. Open the project through the generated link
+
+## 📢 Any suggestions?
+
+If you have any ideas or bugs o report, feel free to submit an issue on the issues tab up above!
+
+## ✅❎ Work in progress
+
+- [ ] Upgrade Tailwind from V3 to V4
+- [ ] Implement other pages
+- [ ] UI animations
+- [ ] Backend for accounts
