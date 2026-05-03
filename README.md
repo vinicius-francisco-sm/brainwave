@@ -13,7 +13,7 @@ This is an implementation of the Brainwave Landing Page design made by [Adrian H
 
 ## 🧪 Test it out
 
-Use the following link to github pages: [Brainwave LP](/)
+Use the following link to github pages: [Brainwave LP](https://vinicius-francisco-sm.github.io/brainwave/)
 
 ## 👨‍💻 Run the project at your own environment
 
